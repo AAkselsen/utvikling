@@ -1,4 +1,7 @@
 
-a = "9.2"
+a = 9.2
 
-print(a + "5")
+b = int(a)
+
+print(a + 5)
+print(b)
